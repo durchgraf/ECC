@@ -4,6 +4,12 @@ A simple viewer for the **MS5 / Soulear Wi-Fi microscope**. Use the desktop vers
 
 > This project is an independent community tool. It is not affiliated with or endorsed by the camera manufacturer.
 
+## Screenshots
+
+| Android app | PC example |
+| --- | --- |
+| <img src="pics/android.jpg" width="260" alt="ECC Android app showing a live microscope view and controls"> | <img src="pics/pc.jpg" width="260" alt="Example microscope image from the PC version"> |
+
 ## What you can do
 
 - **View live video** in your web browser.
