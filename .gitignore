@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+/.gradle/
+/local.properties
+/app/build/
+/build/
+
+# Capture/output
+probe_out/
+*.mjpeg
+
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# AI / assistant working files (kept locally, never published)
+AGENTS.md
+CLAUDE.md
+.claude/
+.remember/
